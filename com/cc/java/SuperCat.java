@@ -6,7 +6,6 @@ public class SuperCat {
     private String furColor;
     protected int age;
     
-    
     public SuperCat(String firstName, String furColor, int age) {
         this.firstName = firstName;
         this.furColor = furColor;
